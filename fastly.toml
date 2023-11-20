@@ -1,0 +1,10 @@
+# This file describes a Fastly Compute package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["drbrain@segment7.net"]
+cloned_from = "https://github.com/fastly/compute-starter-kit-rust-empty"
+description = ""
+language = "rust"
+manifest_version = 3
+name = "combine-requests"
+service_id = "8ej9HNw3F3wptBLZwApum4"
